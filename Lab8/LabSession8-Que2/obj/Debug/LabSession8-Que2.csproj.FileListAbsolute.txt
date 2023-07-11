@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# Folders\LabSession8-Que2\obj\Debug\LabSession8-Que2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Folders\LabSession8-Que2\obj\Debug\LabSession8-Que2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# Folders\LabSession8-Que2\obj\Debug\LabSession8-Que2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Folders\LabSession8-Que2\bin\Debug\LabSession8-Que2.exe.config
+C:\Users\user\Desktop\C# Folders\LabSession8-Que2\bin\Debug\LabSession8-Que2.exe
+C:\Users\user\Desktop\C# Folders\LabSession8-Que2\bin\Debug\LabSession8-Que2.pdb
+C:\Users\user\Desktop\C# Folders\LabSession8-Que2\obj\Debug\LabSession8-Que2.exe
+C:\Users\user\Desktop\C# Folders\LabSession8-Que2\obj\Debug\LabSession8-Que2.pdb
